@@ -128,7 +128,7 @@ plt.show()
 
 
     
-![png](assets\output_8_0.png)
+![png](assets/output_8_0.png)
     
 
 
@@ -153,7 +153,7 @@ plt.show()
 
 
     
-![png](assets\output_9_0.png)
+![png](assets/output_9_0.png)
     
 
 
@@ -194,13 +194,13 @@ plt.tight_layout()
 
 
     
-![png](assets\output_11_0.png)
+![png](assets/output_11_0.png)
     
 
 
 
     
-![png](assets\output_11_1.png)
+![png](assets/output_11_1.png)
     
 
 
@@ -378,7 +378,7 @@ plt.show()
 
 
     
-![png](assets\output_22_0.png)
+![png](assets/output_22_0.png)
     
 
 
@@ -466,7 +466,7 @@ plt.title("CONFUSION MATRIX",fontsize=20)
 
 
     
-![png](assets\output_28_1.png)
+![png](assets/output_28_1.png)
     
 
 
@@ -503,7 +503,7 @@ plt.show()
 
 
     
-![png](assets\output_30_0.png)
+![png](assets/output_30_0.png)
     
 
 
